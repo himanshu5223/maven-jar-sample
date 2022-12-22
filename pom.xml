@@ -107,9 +107,9 @@
           </executions>
       </plugin>
       <plugin>
-          <groupId>mvn org.sonar.scanner.maven:sonar-maven-plugin:3.2:sonar</groupId>
+          <groupId>mvn org.sonar.scanner.maven:sonar-maven-plugin:4.2:sonar</groupId>
           <artifactId>sonar-maven-plugin</artifactId>
-          <version>3.8.6</version>
+          <version>3.6.3</version>
       </plugin>
     </plugins>
   </build>
